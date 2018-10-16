@@ -1,0 +1,5 @@
+from matplotlib.pyplot import *
+from numpy import *
+
+data = loadtxt(./build-Project1-Desktop-Debug/output.txt);
+
